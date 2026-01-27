@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:28:51.193882+08:00",
-  "total_titles_processed": 1972,
+  "generated_at": "2026-01-27T23:29:44.815460+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -42,19 +42,6 @@
           "time_info": "[10时25分 ~ 15时35分]"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时31分 ~ 22时28分]"
-        },
-        {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
           "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
           "source": "凤凰网",
@@ -64,6 +51,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时25分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时31分 ~ 23时29分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -149,8 +150,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时41分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时29分]"
         },
         {
           "title": "韩总统府称将围绕特朗普加关税一事开会研究对策",
@@ -725,7 +726,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -769,9 +770,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
+        },
+        {
+          "title": "市场消息：特朗普政府因委内瑞拉海岸附近一起船只袭击事件造成两人死亡而遭起诉。",
+          "url": "https://flash.jin10.com/detail/20260127225034479800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
@@ -802,7 +814,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -821,7 +833,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -843,8 +855,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时30分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[06时30分 ~ 23时29分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -877,7 +889,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -888,7 +900,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1113,6 +1125,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust美股盘前涨超3%，Global X白银矿业ETF涨超2%。",
           "url": "https://flash.jin10.com/detail/20260127171823945800",
           "source": "金十数据",
@@ -1160,7 +1183,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -1211,6 +1234,17 @@
           "time_info": "[00时42分 ~ 12时12分]"
         },
         {
+          "title": "以色列女子看电视发现自己死在伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%AD%BB%E5%9C%A8%E4%BC%8A%E6%9C%97%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "伊朗外交部就意大利试图将革命卫队列入欧盟恐怖分子名单一事召见意大利大使。",
           "url": "https://flash.jin10.com/detail/20260127201842804800",
           "source": "金十数据",
@@ -1220,6 +1254,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时29分]"
+        },
+        {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时29分]"
         },
         {
           "title": "伊朗：将以更强硬手段回应侵略",
@@ -1248,17 +1305,6 @@
           "time_info": "[02时48分 ~ 04时36分]"
         },
         {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时28分]"
-        },
-        {
           "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
           "url": "https://flash.jin10.com/detail/20260127020608251800",
           "source": "金十数据",
@@ -1269,17 +1315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时31分]"
-        },
-        {
-          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
-          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时28分]"
         },
         {
           "title": "伊朗还剩哪些底牌",
@@ -1392,7 +1427,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1411,7 +1446,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1518,6 +1553,28 @@
           "time_info": "04时36分"
         },
         {
+          "title": "高盛：仍认为5400美元/盎司的年底金价预期存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260127225618874800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "加拿大皇家银行：黄金仍有“上涨空间”；认为金价有潜力达到7100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127225231645800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "水贝首饰金价一天涨超20元",
           "url": "https://wallstreetcn.com/livenews/3044438",
           "source": "华尔街见闻-快讯",
@@ -1532,8 +1589,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3044859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
           "url": "https://flash.jin10.com/detail/20260127050513890800",
@@ -1557,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时45分 ~ 22时28分]"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -1634,6 +1713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "美元指数DXY持续走低 非美货币普涨",
+          "url": "https://flash.jin10.com/detail/20260127224408359800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
@@ -1672,7 +1762,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1737,19 +1827,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时42分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[16时42分 ~ 23时29分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时28分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时29分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -1770,11 +1861,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时28分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时29分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -1848,7 +1940,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
