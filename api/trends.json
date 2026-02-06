@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T19:32:20.105921+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-02-06T20:54:08.614689+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "贝森特：看到伊朗啥样了吧，我们干的",
+          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 20时54分]"
+        },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 07时25分]"
-        },
-        {
-          "title": "贝森特：看到伊朗啥样了吧，我们干的",
-          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时32分]"
         },
         {
           "title": "中方阐明在伊朗问题上的原则立场",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
+          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
+          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -186,6 +197,17 @@
           "time_info": "[18时37分 ~ 19时32分]"
         },
         {
+          "title": "伊朗：武装部队进入最高级别战备状态",
+          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时54分]"
+        },
+        {
           "title": "伊朗展示先进弹道导弹",
           "url": "https://www.toutiao.com/trending/7602741866300293126/",
           "source": "今日头条",
@@ -219,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时31分]"
+        },
+        {
+          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
+          "url": "https://www.cls.cn/detail/2283240",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "伊朗军事战略转向主动威慑",
@@ -269,15 +302,15 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "伊朗：武装部队进入最高级别战备状态",
-          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
-          "source": "凤凰网",
+          "title": "伊朗称武装部队进入最高级别战备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            6
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "伊朗特使：即将举行的美伊谈判仅聚焦核问题",
@@ -352,9 +385,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "据伊朗电视台：在阿曼举行的美伊核谈判可能持续数日。",
+          "url": "https://flash.jin10.com/detail/20260206203021405800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "阿曼外交部：与伊朗外长阿拉奇和美国中东问题特使威特科夫的磋商重点在于创造谈判条件。",
@@ -374,7 +418,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -385,9 +429,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "据伊朗媒体报道，在阿曼举行的谈判仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260206202257284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "以总理称若遭伊朗攻击将对其“重击”",
@@ -418,7 +473,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -484,7 +539,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -528,7 +583,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -575,12 +630,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗媒体：美方已审议伊方谈判方案并将作出回应",
+          "url": "https://wallstreetcn.com/livenews/3051386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -591,8 +657,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 20时54分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -606,8 +672,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时54分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 20时54分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -631,17 +708,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时13分 ~ 15时45分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时32分]"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -775,6 +841,18 @@
           "time_info": "[01时45分 ~ 07时25分]"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 20时54分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
           "url": "https://wallstreetcn.com/livenews/3050862",
           "source": "华尔街见闻-快讯",
@@ -846,6 +924,17 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "美国白宫：（当被问及是否与俄罗斯就新削减战略武器条约达成了临时协议时）据我们所知，并没有。美国总统特朗普希望让我们的核专家着手制定一项全新的、经改进的且现代化的条约。",
           "url": "https://flash.jin10.com/detail/20260206033504426800",
           "source": "金十数据",
@@ -870,17 +959,6 @@
           "time_info": "[02时44分 ~ 03时36分]"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
-        },
-        {
           "title": "外交部回应特朗普支持高市赢得大选",
           "url": "https://www.toutiao.com/trending/7603649349884759562/",
           "source": "今日头条",
@@ -898,7 +976,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -1115,7 +1193,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -1196,8 +1274,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 20时54分]"
         },
         {
           "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
@@ -1206,7 +1284,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -1282,6 +1360,18 @@
           "time_info": "[17时40分 ~ 18时37分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时54分]"
+        },
+        {
           "title": "美股、金银、比特币、石油 全崩了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
@@ -1329,15 +1419,15 @@
           "time_info": "06时25分"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
+          "title": "分析师：美股在经历艰难的几天后有望小幅回升",
+          "url": "https://flash.jin10.com/detail/20260206202607826800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "20时54分"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
@@ -1464,8 +1554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 20时54分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1564,8 +1654,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 20时54分]"
         }
       ]
     },
@@ -1606,6 +1696,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "股市下跌、美伊紧张局势持续的背景下 避险需求推动金价上涨",
+          "url": "https://flash.jin10.com/detail/20260206200753583800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
