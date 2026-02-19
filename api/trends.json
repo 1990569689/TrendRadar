@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T15:09:17.495418+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-19T16:41:06.063091+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时41分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时41分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时41分]"
         },
         {
           "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时09分]"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -172,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时47分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 16时41分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -327,17 +339,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -476,7 +477,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -539,7 +540,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -579,8 +580,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 16时41分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -589,22 +590,73 @@
           "ranks": [
             10,
             6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时41分]"
+        },
+        {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时41分]"
+        },
+        {
+          "title": "伊朗和俄罗斯举行联合海军演习",
+          "url": "https://flash.jin10.com/detail/20260219161436509800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
           "url": "https://www.douyin.com/hot/2405517",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时41分]"
+        },
+        {
+          "title": "俄外长：要求伊朗彻底放弃铀浓缩权利“不恰当”",
+          "url": "https://wallstreetcn.com/livenews/3056598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "16时41分"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时41分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -631,29 +683,30 @@
           "time_info": "[07时32分 ~ 09时56分]"
         },
         {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时09分]"
-        },
-        {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
           "url": "https://wallstreetcn.com/livenews/3056575",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时41分]"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时41分]"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -666,18 +719,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时47分]"
-        },
-        {
-          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
-          "url": "https://wallstreetcn.com/livenews/3056574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -706,16 +747,15 @@
           "time_info": "[09时56分 ~ 13时58分]"
         },
         {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
+          "title": "伊朗备战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            22,
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时09分]"
+          "time_info": "[15时09分 ~ 16时41分]"
         },
         {
           "title": "美国白宫：在伊朗问题上取得了一些进展。",
@@ -752,6 +792,50 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "美国务院称对18名伊朗人实施签证限制措施",
           "url": "https://wallstreetcn.com/livenews/3056522",
           "source": "华尔街见闻-快讯",
@@ -772,17 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "伊朗备战",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
         },
         {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
@@ -879,9 +952,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "俄外长：要求伊朗彻底放弃铀浓缩权利“不恰当”",
+          "url": "https://flash.jin10.com/detail/20260219154015539800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "伊朗首都附近发生火灾，靠近军事设施",
@@ -898,7 +982,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -911,6 +995,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 06时30分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时30分 ~ 16时41分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -938,27 +1033,17 @@
           "time_info": "[01时01分 ~ 09时56分]"
         },
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时30分 ~ 15时09分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 16时41分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -969,8 +1054,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 16时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -978,11 +1063,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1043,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时30分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -1178,7 +1275,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
@@ -1239,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
