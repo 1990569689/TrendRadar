@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T21:13:00.058723+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-02-23T22:09:31.018230+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -55,11 +55,12 @@
             13,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 22时09分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -71,8 +72,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时04分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[14时04分 ~ 22时09分]"
         },
         {
           "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
@@ -102,6 +103,28 @@
           "time_info": "[02时32分 ~ 07时23分]"
         },
         {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时45分 ~ 22时09分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时45分 ~ 22时09分]"
+        },
+        {
           "title": "美官员：若伊朗尽快提交核协议草案 美伊会谈或将于27日举行",
           "url": "https://wallstreetcn.com/livenews/3057276",
           "source": "华尔街见闻-快讯",
@@ -116,28 +139,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时45分 ~ 21时12分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时45分 ~ 21时12分]"
         },
         {
           "title": "伊朗总统：绝不会向霸凌屈服",
@@ -177,6 +178,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时22分]"
+        },
+        {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时47分 ~ 22时09分]"
         },
         {
           "title": "伊朗陆军称密切监控边境敌方动向",
@@ -225,19 +240,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 15时53分]"
-        },
-        {
-          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
-          "url": "https://www.zhihu.com/question/2005108327592519351",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 21时12分]"
         },
         {
           "title": "伊朗：将誓死捍卫国家独立和主权完整",
@@ -323,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时45分]"
+        },
+        {
+          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
+          "url": "https://www.zhihu.com/question/2009287749354688656",
+          "source": "知乎",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时09分]"
         },
         {
           "title": "欧盟呼吁就伊朗问题寻求“外交解决方案”",
@@ -432,6 +446,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "伊朗外交部说任何对伊攻击都将被视作侵略并承担后果",
+          "url": "https://wallstreetcn.com/livenews/3057496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "伊朗外交部：伊朗和阿曼外长通话 就下一轮谈判的安排进行了磋商",
           "url": "https://flash.jin10.com/detail/20260223044644545800",
           "source": "金十数据",
@@ -529,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "伊朗总统：正持续密切关注美国行动",
@@ -726,8 +740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时45分 ~ 21时12分]"
+          "appearance_count": 9,
+          "time_info": "[16时45分 ~ 22时09分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -755,6 +769,35 @@
           "time_info": "[12时24分 ~ 17时53分]"
         },
         {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时45分 ~ 22时09分]"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时53分 ~ 22时09分]"
+        },
+        {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
           "url": "https://wallstreetcn.com/livenews/3057279",
           "source": "华尔街见闻-快讯",
@@ -769,34 +812,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时45分 ~ 21时12分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时53分 ~ 21时12分]"
         },
         {
           "title": "连锁反应来了，印度打脸特朗普",
@@ -1027,6 +1042,18 @@
           "time_info": "[18时48分 ~ 19时39分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时09分]"
+        },
+        {
           "title": "商务部回应美裁定特朗普关税违法",
           "url": "https://www.toutiao.com/trending/7609570732955959359/",
           "source": "今日头条",
@@ -1096,24 +1123,13 @@
           "time_info": "14时04分"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "英国首相发言人：不认为美国总统特朗普最新发布的关税公告会影响去年宣布的英美多数经济协议。",
           "url": "https://flash.jin10.com/detail/20260223203204446800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1168,7 +1184,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1190,7 +1206,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1201,7 +1217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1212,7 +1228,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1223,7 +1239,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1242,7 +1258,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1277,8 +1293,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时47分 ~ 22时09分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3057503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -1334,9 +1361,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -1415,11 +1453,29 @@
             10,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时32分 ~ 21时12分]"
+          "appearance_count": 22,
+          "time_info": "[02时32分 ~ 22时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国债上涨；10年期美债收益率跌至日内低点4.05%。",
+          "url": "https://flash.jin10.com/detail/20260223214241517800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     }
