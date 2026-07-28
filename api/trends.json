@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T14:24:32.237129+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-07-28T17:34:42.413052+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 17时34分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时24分]"
+          "time_info": "[11时19分 ~ 17时34分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 17时34分]"
         },
         {
           "title": "美国总统特朗普：尚未与沙特阿拉伯讨论加入亚伯拉罕协议。",
@@ -163,17 +175,6 @@
           "time_info": "06时04分"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时24分]"
-        },
-        {
           "title": "特朗普：若外交努力失败就恢复对伊军事行动",
           "url": "https://wallstreetcn.com/livenews/3140432",
           "source": "华尔街见闻-快讯",
@@ -191,11 +192,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 17时34分]"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -380,7 +382,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -575,7 +577,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -671,6 +673,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "据以色列媒体：以色列一名部长表示，以色列确实想攻击伊朗的能源目标，但美国目前并未授权。",
+          "url": "https://flash.jin10.com/detail/20260728171118544800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
           "url": "https://wallstreetcn.com/livenews/3140458",
           "source": "华尔街见闻-快讯",
@@ -717,6 +730,29 @@
           "time_info": "[00时56分 ~ 02时24分]"
         },
         {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 17时34分]"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "也门候任外交部长：胡塞武装寻求开通伊朗直飞航班，以填补军事支持、人员、资金和武器的缺口。",
           "url": "https://flash.jin10.com/detail/20260728033710553800",
           "source": "金十数据",
@@ -739,6 +775,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
           "url": "https://flash.jin10.com/detail/20260728044945651800",
           "source": "金十数据",
@@ -748,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
@@ -778,18 +836,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -803,6 +850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "据伊朗媒体Fars News：叙利亚消息人士称，以色列军队正从叙利亚德拉省西部郊区方向推进，进入叙利亚境内。",
@@ -885,7 +943,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股",
@@ -935,8 +993,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -950,6 +1008,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 14时24分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 17时34分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -974,18 +1045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时24分]"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -1046,6 +1105,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美股上演芯片风暴 苹果重返市值第一",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
@@ -1055,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -1159,7 +1240,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1169,11 +1250,12 @@
             13,
             15,
             19,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 17时34分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -1198,6 +1280,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3140408",
           "source": "华尔街见闻-快讯",
@@ -1220,11 +1313,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时24分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[02时24分 ~ 17时34分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -1238,6 +1332,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价难以持续站稳，夏季盘整还要多久？",
+          "url": "https://flash.jin10.com/detail/20260728170256971800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
@@ -1263,26 +1385,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
-          "url": "https://wallstreetcn.com/livenews/3140540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "14时24分"
         }
       ]
     },
